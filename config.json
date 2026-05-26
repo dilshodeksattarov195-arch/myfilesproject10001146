@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenronnect",
+        "uuid": 8922756,
+        "checksum": "8nmac8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
